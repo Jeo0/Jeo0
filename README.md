@@ -1,4 +1,5 @@
 ## jajaja 👋
+![](https://komarev.com/ghpvc/?username=Jeo0&color=ff69b4)
 
 <!--
 **Jeo0/Jeo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
