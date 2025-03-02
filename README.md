@@ -1,5 +1,7 @@
 ## jajaja 👋
 ![](https://komarev.com/ghpvc/?username=Jeo0&color=ff69b4)
+
+# Github stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeo0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
