@@ -1,5 +1,6 @@
 ## jajaja 👋
 ![](https://komarev.com/ghpvc/?username=Jeo0&color=ff69b4)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeo0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Jeo0/Jeo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
